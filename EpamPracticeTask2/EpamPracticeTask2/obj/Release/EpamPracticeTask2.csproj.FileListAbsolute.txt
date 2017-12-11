@@ -1,0 +1,5 @@
+C:\Users\VenheretsOleksii\Documents\Visual Studio 2015\Projects\EpamPracticeTask2\EpamPracticeTask2\bin\Release\EpamPracticeTask2.exe.config
+C:\Users\VenheretsOleksii\Documents\Visual Studio 2015\Projects\EpamPracticeTask2\EpamPracticeTask2\bin\Release\EpamPracticeTask2.exe
+C:\Users\VenheretsOleksii\Documents\Visual Studio 2015\Projects\EpamPracticeTask2\EpamPracticeTask2\bin\Release\EpamPracticeTask2.pdb
+C:\Users\VenheretsOleksii\Documents\Visual Studio 2015\Projects\EpamPracticeTask2\EpamPracticeTask2\obj\Release\EpamPracticeTask2.exe
+C:\Users\VenheretsOleksii\Documents\Visual Studio 2015\Projects\EpamPracticeTask2\EpamPracticeTask2\obj\Release\EpamPracticeTask2.pdb
